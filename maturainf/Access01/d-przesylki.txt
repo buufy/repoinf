@@ -1,0 +1,67 @@
+kurs	towar	ilosc	wysylka
+1	LNG	120	Nie
+2	Ruda Boksytowa	200	Nie
+2	Wegiel	150	Tak
+3	Kontener	234	Nie
+3	Kontener	167	Tak
+4	Kontener	54	Nie
+4	Kontener	66	Tak
+4	Kontener Chlodniczy	4	Tak
+5	Samochody	200	Nie
+5	Kontener Chlodniczy	20	Nie
+5	Drewno	500	Tak
+6	Ryby	20	Tak
+7	Drewno	420	Tak
+7	Nawozy Worki	400	Nie
+7	Kontener	5	Nie
+8	Ruda Zelaza	150	Nie
+8	Wegiel	150	Tak
+9	LPG	55	Tak
+15	LPG	34	Tak
+10	Marchew	14	Nie
+10	Cebula	10	Tak
+11	Pomarancze	5	Nie
+11	Cytryny	5	Nie
+11	Cukier Paczkowany	12	Tak
+12	Cebula	21	Tak
+12	Pszenica	17	Nie
+12	Marchew	14	Nie
+13	Drewno	33	Nie
+13	Drewno	41	Tak
+14	Kontener	52	Nie
+14	Kontener	31	Tak
+14	Kontener Chlodniczy	5	Tak
+16	Samochody	260	Tak
+16	Kontener	6	Tak
+16	Kontener	157	Nie
+16	Napoj Cola	50	Tak
+17	Nawozy Worki	2800	Nie
+17	Kontener	210	Tak
+17	Kontener Chlodniczy	12	Nie
+18	Ziemniaki	105	Tak
+18	Zyto	82	Nie
+19	Pszenica	21	Nie
+19	Kukurydza	15	Tak
+19	Cebula	8	Tak
+20	Banany	31	Nie
+20	Cytryny	17	Nie
+20	Ryby	18	Tak
+21	Ziemniaki	42	Tak
+22	Samochody	290	Nie
+22	Kontener	56	Tak
+23	Cebula	36	Tak
+23	Marchew	13	Nie
+24	Drewno	272	Nie
+24	Wegiel	110	Tak
+25	Pszenica	41	Nie
+25	Kukurydza	33	Tak
+25	Kontener Chlodniczy	6	Tak
+26	Kwas Siarkowy	250	Nie
+27	Ruda Zelaza	415	Nie
+27	Wegiel	420	Tak
+28	Ropa Naftowa	820	Nie
+29	Samochody	150	Nie
+29	Kontener	21	Nie
+29	Kontener	92	Tak
+30	LPG	12	Tak
+30	Olej Napedowy	12	Tak

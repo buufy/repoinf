@@ -1,0 +1,27 @@
+nazwa	mnoznik	jednostka
+Wegiel	1000	Tona
+Ruda Boksytowa	1000	Tona
+Ruda Zelaza	1000	Tona
+Ropa Naftowa	1000	Mert szescienny
+Olej Napedowy	1000	Mert szescienny
+Kwas Siarkowy	1000	Mert szescienny
+LPG	1000	Mert szescienny
+LNG	1000	Mert szescienny
+PNG	1000	Mert szescienny
+Marchew	100	Tona
+Zyto	100	Tona
+Kukurydza	100	Tona
+Pszenica	100	Tona
+Ziemniaki	100	Tona
+Cebula	100	Tona
+Ryby	100	Tona
+Banany	100	Tona
+Pomarancze	100	Tona
+Cytryny	100	Tona
+Samochody	1	Sztuka
+Kontener	1	Sztuka
+Kontener Chlodniczy	1	Sztuka
+Cukier Paczkowany	1	Paleta
+Nawozy Worki	1	Paleta
+Drewno	1	Paleta
+Napoj Cola	1	Paleta

@@ -1,0 +1,31 @@
+kurs	statek	czas_przybycia	zatoka
+1	LPGC Wanderer	00:12	1
+2	Archimidis	01:03	2
+3	Betty	01:54	4
+4	Solos	02:26	2
+5	MS Aries	04:48	1
+6	Canso	05:26	2
+7	Buffalo	05:59	4
+8	Enterprise	06:21	1
+9	O5	07:19	3
+10	Jutland	07:42	2
+11	Nomad	08:30	4
+12	Echo	09:03	3
+13	Aurora	10:28	2
+14	Celia	11:13	4
+15	O3	11:51	1
+16	Pisces	12:32	3
+17	Argo	12:53	4
+18	Sirius	13:41	1
+19	Scorpio	14:18	2
+20	Narbada	14:49	3
+21	Nuria	15:26	4
+22	Taurus	16:20	2
+23	Virgo	16:54	1
+24	Libra	17:39	3
+25	Erika	18:22	2
+26	Tollund	18:51	4
+27	Baltivia	19:28	1
+28	Vulkan	20:44	3
+29	Gemini	22:06	4
+30	MS Leo	22:52	2
