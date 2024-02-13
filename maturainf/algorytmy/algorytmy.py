@@ -171,7 +171,7 @@ def rozkladzsitem(n):
     czynniki = []
     j = 0
     while n > 1:
-        while n % k[j] == 0:        #procent - modulo (oblicza reszt� z dzielenia)
+        while n % k[j] == 0:        #procent - modulo (oblicza resztę z dzielenia)
             n//=k[j]
             czynniki.append(k[j])
         j+=1
